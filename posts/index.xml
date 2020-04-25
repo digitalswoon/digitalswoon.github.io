@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on digitalswoon</title>
-    <link>http://digitalswoon.github.io/posts/</link>
+    <link>https://digitalswoon.github.io/posts/</link>
     <description>Recent content in Posts on digitalswoon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2020, DigitalSwoon</copyright>
     <lastBuildDate>Fri, 24 Apr 2020 02:44:05 -0700</lastBuildDate>
     
-	<atom:link href="http://digitalswoon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://digitalswoon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://digitalswoon.github.io/posts/my-first-post/</link>
+      <link>https://digitalswoon.github.io/posts/my-first-post/</link>
       <pubDate>Fri, 24 Apr 2020 02:44:05 -0700</pubDate>
       
-      <guid>http://digitalswoon.github.io/posts/my-first-post/</guid>
+      <guid>https://digitalswoon.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
     
